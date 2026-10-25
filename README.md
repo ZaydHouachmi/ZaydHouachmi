@@ -21,7 +21,7 @@ These live on my portfolio rather than in code:
 
 - **[Formula SAE wings](https://zaydhouachmi.github.io/work/formula-sae.html):** front and rear wings in SolidWorks, full-car ANSYS CFD at C<sub>L</sub> −1.91 (320 N at 65 km/h), validated on track within 10%, built in carbon fibre.
 - **[Clip-on visual shield](https://zaydhouachmi.github.io/work/visual-shield.html):** my design and SolidWorks model of a foldable shield that blocks peripheral distractions for a student client.
-- **[ZEIKU swab dryer](https://zaydhouachmi.github.io/work/zeiku.html):** team lead on a contamination-free DNA swab dryer for the Ottawa Police Service.
+- **[ZEIKU swab dryer](https://zaydhouachmi.github.io/work/zeiku.html):** team lead on a blood-sample swab drying system for the Ottawa Police Service: SolidWorks parts, Arduino sensors, testing.
 
 ## Toolbox
 
