@@ -6,25 +6,41 @@ I'm a mechanical engineering co-op student at the University of Ottawa. I design
 
 [Portfolio](https://zaydhouachmi.github.io) · [Résumé (PDF)](https://zaydhouachmi.github.io/assets/Zayd-Houachmi-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/zayd-houachmi-b5578735a/) · [Email](mailto:mozaydhouachmi@gmail.com)
 
-## Code
+## Engineering
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://zaydhouachmi.github.io/work/visual-shield.html"><img src="https://zaydhouachmi.github.io/assets/shield-render.jpg" alt="Render of the clip-on visual shield on glasses"></a><br>
+      <b><a href="https://zaydhouachmi.github.io/work/visual-shield.html">Clip-on visual shield</a></b><br>
+      My design and full SolidWorks model of a foldable, 3D-printed shield that blocks peripheral distractions for a student client. Targets: ≤20 g, ≤80° view, under $50.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://zaydhouachmi.github.io/work/wind-farm.html"><img src="https://zaydhouachmi.github.io/assets/greenard-grid.png" alt="WAsP wind resource map over terrain contours"></a><br>
+      <b><a href="https://zaydhouachmi.github.io/work/wind-farm.html">Wind farm energy yield</a></b><br>
+      Internship at Greenard Consulting: WAsP resource study from a 10 m mast to turbine annual energy, plus my own Python wake model that matches WAsP's mean wind speed.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://zaydhouachmi.github.io/work/zeiku.html"><img src="https://zaydhouachmi.github.io/assets/zeiku-top.jpg" alt="ZEIKU swab dryer: acrylic box with the electronics shelf on top"></a><br>
+      <b><a href="https://zaydhouachmi.github.io/work/zeiku.html">ZEIKU swab dryer</a></b><br>
+      Team lead on a blood-sample swab drying system for the Ottawa Police Service: SolidWorks parts, Arduino sensors, tracer and load tests.
+    </td>
+  </tr>
+</table>
+
+**[Formula SAE aerodynamics](https://zaydhouachmi.github.io/work/formula-sae.html):** front and rear wings in SolidWorks, full-car ANSYS CFD at C<sub>L</sub> −1.91 (320 N downforce at 65 km/h), validated against suspension-travel data within 10%, built in carbon fibre.
+
+## Software
 
 | Project | What it is | Built with |
 |---|---|---|
 | **[SpeakGov](https://github.com/ZaydHouachmi/ottawa-voice)** · [live](https://speakgov.com) | Fill in a government benefit form by talking, in English or French, without needing to read it. Built solo at Hack the Hill III (uOttawa, Sept 2026). | Next.js, TypeScript, Gemini, ElevenLabs, Web Speech API, Auth0 |
-| **[Wind Farm Energy Assessment](https://github.com/ZaydHouachmi/wind-farm-energy-assessment)** · [case study](https://zaydhouachmi.github.io/work/wind-farm.html) | Annual energy production for a wind farm: Weibull wind resource, Jensen and Ainslie wake models, six-factor loss cascade. Built during my internship at Greenard Consulting and validated against WAsP. | Python, NumPy, SciPy, Streamlit, pytest |
+| **[Wind Farm Energy Assessment](https://github.com/ZaydHouachmi/wind-farm-energy-assessment)** · [case study](https://zaydhouachmi.github.io/work/wind-farm.html) | Annual energy production for a wind farm: Weibull wind resource, Jensen and Ainslie wake models, six-factor loss cascade. 22 tests check it against hand calculations. | Python, NumPy, SciPy, Streamlit, pytest |
 | **[Tutoring Ottawa](https://github.com/ZaydHouachmi/tutoring-platform)** · [live](https://tutoring-platform-mauve.vercel.app) | Bilingual booking site for my tutoring business. Server-side validation, rate limiting, honeypot, and a Postgres table locked down with row-level security. | Next.js, TypeScript, Supabase, Vitest, GitHub Actions |
-| **[Portfolio](https://github.com/ZaydHouachmi/zaydhouachmi.github.io)** · [live](https://zaydhouachmi.github.io) | My engineering portfolio, styled as a drawing set, with a live Jensen wake model you can play with. | HTML, CSS, JavaScript (no framework) |
-
-## Engineering
-
-These live on my portfolio rather than in code:
-
-- **[Formula SAE wings](https://zaydhouachmi.github.io/work/formula-sae.html):** front and rear wings in SolidWorks, full-car ANSYS CFD at C<sub>L</sub> −1.91 (320 N at 65 km/h), validated on track within 10%, built in carbon fibre.
-- **[Clip-on visual shield](https://zaydhouachmi.github.io/work/visual-shield.html):** my design and SolidWorks model of a foldable shield that blocks peripheral distractions for a student client.
-- **[ZEIKU swab dryer](https://zaydhouachmi.github.io/work/zeiku.html):** team lead on a blood-sample swab drying system for the Ottawa Police Service: SolidWorks parts, Arduino sensors, testing.
+| **[Portfolio](https://github.com/ZaydHouachmi/zaydhouachmi.github.io)** · [live](https://zaydhouachmi.github.io) | This portfolio, styled as a drawing set, with a live Jensen wake model you can play with in the browser. | HTML, CSS, JavaScript (no framework) |
 
 ## Toolbox
 
 - **Engineering:** SolidWorks · ANSYS CFD · WAsP · Arduino · composite layup · 3D printing · laser cutting
-- **Code:** Python (NumPy, Streamlit) · TypeScript · Next.js · React · C · C++ · C# · SQL (Postgres)
+- **Code:** Python (NumPy, SciPy, Streamlit) · TypeScript · Next.js · React · C · C++ · C# · SQL (Postgres)
 - **Languages:** English · French (DELF) · Arabic
