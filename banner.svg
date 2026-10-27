@@ -28,7 +28,7 @@
     <g font-family="Consolas, 'Courier New', monospace">
       <text x="12" y="15" font-size="9" letter-spacing="1.5" fill="#97AFCB">STATUS</text>
       <circle cx="18" cy="27" r="4" fill="#6FD39A"/>
-      <text x="30" y="31" font-size="13" fill="#EAF2FB" textLength="240" lengthAdjust="spacingAndGlyphs">Available for Summer 2027 co-op</text>
+      <text x="30" y="31" font-size="13" fill="#EAF2FB" textLength="240" lengthAdjust="spacingAndGlyphs">Available: Winter &amp; Summer 2027</text>
       <text x="12" y="52" font-size="9" letter-spacing="1.5" fill="#97AFCB">LOCATION</text>
       <text x="12" y="67" font-size="13" fill="#EAF2FB">Ottawa, ON</text>
       <text x="172" y="52" font-size="9" letter-spacing="1.5" fill="#97AFCB">LANGUAGES</text>

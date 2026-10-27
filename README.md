@@ -1,8 +1,8 @@
-<a href="https://zaydhouachmi.github.io"><img src="banner.svg" alt="Zayd Houachmi, Mechanical Engineering Co-op, University of Ottawa. Available for Summer 2027 co-op." width="100%"></a>
+<a href="https://zaydhouachmi.github.io"><img src="banner.svg" alt="Zayd Houachmi, Mechanical Engineering Co-op, University of Ottawa. Available for Winter and Summer 2027 co-op." width="100%"></a>
 
 I'm a mechanical engineering co-op student at the University of Ottawa. I design parts in SolidWorks, test them in ANSYS CFD and on track with the Formula SAE aero team, and write software when the engineering needs it, from a wind-farm energy model to a voice interface for government forms.
 
-**Looking for a Summer 2027 co-op** in mechanical design, aerodynamics, energy or renewables.
+**Looking for a Winter or Summer 2027 co-op** in mechanical design, aerodynamics, energy or renewables.
 
 [Portfolio](https://zaydhouachmi.github.io) · [Résumé (PDF)](https://zaydhouachmi.github.io/assets/Zayd-Houachmi-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/zayd-houachmi-b5578735a/) · [Email](mailto:mozaydhouachmi@gmail.com)
 
