@@ -4,7 +4,7 @@ I'm a mechanical engineering co-op student at the University of Ottawa. I design
 
 **Looking for a Summer 2027 co-op** in mechanical design, aerodynamics, energy or renewables.
 
-[Portfolio](https://zaydhouachmi.github.io) · [Résumé (PDF)](https://zaydhouachmi.github.io/assets/Mohamed-Zayed-Houachmi-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/zayd-houachmi-b5578735a/) · [Email](mailto:mozaydhouachmi@gmail.com)
+[Portfolio](https://zaydhouachmi.github.io) · [Résumé (PDF)](https://zaydhouachmi.github.io/assets/Zayd-Houachmi-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/zayd-houachmi-b5578735a/) · [Email](mailto:mozaydhouachmi@gmail.com)
 
 ## Code
 
